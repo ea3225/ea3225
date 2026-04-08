@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Eleni
 
-<!--
-**ea3225/ea3225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Operations Research at Columbia University, with interests in optimization, machine learning, and data-driven decision making.
 
-Here are some ideas to get you started:
+My work focuses on:
+- Optimization (MILP, CP, Gurobi, OR-Tools)
+- Machine Learning (classification, predictive modeling)
+- Applications in healthcare, policy, and operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recent projects:
+- Childcare desert elimination using optimization
+- NBA scheduling optimization
+- Healthcare classification models
+
+Currently exploring:
+- Optimization + ML integration
+- Decision-focused learning
+- Dynamic pricing
+- Deep learning and Reinforcement learning
